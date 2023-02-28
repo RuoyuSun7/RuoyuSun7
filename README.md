@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RuoyuSun7
-- 👀 I’m interested in VR/AR/Autonomus Vehicle
-- 🌱 I’m currently a Junior Student at University of Minnesota Majored in Computer Science
+- 🌱 I’m currently a Senior Student at University of Minnesota Majored in Computer Science
 
 
 <!---
