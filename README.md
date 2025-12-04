@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuoyuSun7
-- 🌱 I’m currently a Master Student at the University of Minnesota Majored in Computer Science
+- 🌱 I’m currently a Ph.D. student at the University of Alberta
 
 
 <!---
